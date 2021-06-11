@@ -1,0 +1,21 @@
+    body {
+        font-family: 'Roboto', sans-serif;
+        background-color: black;
+    }
+    
+    hr {
+        width: 95%;
+    }
+    
+    .prueba1 {
+        width: 80%;
+    }
+    
+    .derecha {
+        text-align: right;
+    }
+    
+    .cards {
+        width: 22rem;
+        height: 26rem;
+    }
